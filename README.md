@@ -1,8 +1,6 @@
-# 技术问题请加QQ群
+# 闪信 以下为JAVA客户端版文档及源码
 ![qq 20180420170449](https://raw.githubusercontent.com/Concept09/MyCode/master/e.jpg)
 
-群名称：cmppGate短信
-<br/>群   号：770738500
 
 # How To Use
 
@@ -60,8 +58,8 @@
 
 # 新手指引
 
-- 先看doc目录下的`CMPP接口协议V3.0.0.doc`文档 (看不懂的到群里咨询)
-- 再看readme里的说明  (看不懂的到群里咨询)
+- 先看doc目录下的`CMPP接口协议V3.0.0.doc`文档 ()
+- 再看readme里的说明  ()
 - 导入工程后，运行测试demo: TestCMPPEndPoint，学会配置账号密码等参数
 - 由于代码是基于netty网络框架，您有必要先有一些Netty的基础
 
@@ -496,6 +494,12 @@ public class TestSgipEndPoint {
 11:32:04.888 [busiWork-2] INFO  c.z.s.h.a.s.MessageReceiveHandler - Totle Receive Msg Num:26337,   speed : 3272/s
 
 ```
+
+# 闪信 以下为 中国移动开放平台API接口规范（接口可接入PHP EXE应用等，具体在压缩包里查看）
+
+# 闪信 以下为JAVA客户端版文档及源码
+![qq 20180420170449](https://raw.githubusercontent.com/Concept09/MyCode/master/1.png)
+![qq 20180420170449](https://raw.githubusercontent.com/Concept09/MyCode/master/2.png)
 
 
 

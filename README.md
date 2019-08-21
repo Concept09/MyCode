@@ -497,7 +497,6 @@ public class TestSgipEndPoint {
 
 # 以中国移动为例，更多开发文档在压缩包里--闪信-- 以下为-中国移动开放平台API接口规范（接口可接入--PHP-- --EXE--应用等，具体在压缩包里查看）。
 
-# 闪信 以下为JAVA客户端版文档及源码
 ![qq 20180420170449](https://raw.githubusercontent.com/Concept09/MyCode/master/1.png)
 ![qq 20180420170449](https://raw.githubusercontent.com/Concept09/MyCode/master/2.png)
 
